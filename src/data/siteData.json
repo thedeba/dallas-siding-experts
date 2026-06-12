@@ -1,0 +1,395 @@
+{
+  "navLinks": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/#services"
+    },
+    {
+      "label": "About",
+      "href": "/#about"
+    },
+    {
+      "label": "Process",
+      "href": "/#process"
+    },
+    {
+      "label": "Service Area",
+      "href": "/#service-areas"
+    },
+    {
+      "label": "FAQ",
+      "href": "/#faq"
+    },
+    {
+      "label": "Contact",
+      "href": "/#contact"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    }
+  ],
+  "hero": {
+    "badge": "#1 Siding Contractors in Dallas, TX",
+    "titlePrefix": "Professional",
+    "titleHighlight": "Siding Contractors",
+    "titleSuffix": "in Dallas, TX",
+    "description": "Expert siding installation, repair, and replacement services for homeowners in Dallas, TX. Licensed, insured, and trusted by 500+ Dallas homeowners.",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Homes Completed"
+      },
+      {
+        "number": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "number": "Dallas",
+        "label": "TX — Our Only City"
+      },
+      {
+        "number": "100%",
+        "label": "Satisfaction Rate"
+      }
+    ],
+    "trustBadges": [
+      {
+        "icon": "CheckCircle2",
+        "text": "Licensed Contractors"
+      },
+      {
+        "icon": "CheckCircle2",
+        "text": "Free Inspections"
+      },
+      {
+        "icon": "Zap",
+        "text": "Fast Response"
+      },
+      {
+        "icon": "Award",
+        "text": "Quality Materials"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Why Choose Us",
+    "title": "The Dallas Siding Experts",
+    "titleHighlight": "Difference",
+    "subtitle": "From the first free estimate to the final walkthrough, we deliver an exceptional siding experience that Dallas homeowners rave about.",
+    "benefits": [
+      {
+        "icon": "Wrench",
+        "title": "Experienced Professionals",
+        "description": "Our certified siding contractors bring 15+ years of hands-on experience installing and repairing all types of siding in the Dallas-Fort Worth metroplex.",
+        "iconBg": "bg-brand-blue"
+      },
+      {
+        "icon": "Award",
+        "title": "Premium Materials",
+        "description": "We source only the highest-grade siding products — James Hardie fiber cement, CertainTeed vinyl, and LP SmartSide — backed by manufacturer warranties.",
+        "iconBg": "bg-brand-orange"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Free Estimates",
+        "description": "Get a detailed, no-obligation written estimate at zero cost. We break down every line item so you know exactly what you're paying for — no surprises.",
+        "iconBg": "bg-green-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Competitive Pricing",
+        "description": "Industry-fair pricing without cutting corners. We'll match or beat any comparable written quote from a licensed Dallas siding contractor.",
+        "iconBg": "bg-purple-600"
+      },
+      {
+        "icon": "Timer",
+        "title": "Fast Project Completion",
+        "description": "Most residential siding projects are completed within 1–5 days. We respect your schedule and minimize disruptions to your daily life.",
+        "iconBg": "bg-brand-blue-mid"
+      },
+      {
+        "icon": "ThumbsUp",
+        "title": "Customer Satisfaction",
+        "description": "With a 100% satisfaction commitment and 500+ completed projects, our dedication to excellence has earned Dallas homeowners' trust.",
+        "iconBg": "bg-brand-orange"
+      }
+    ]
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Complete Siding Services for",
+    "titleHighlight": "Dallas Homeowners",
+    "subtitle": "From storm damage repair to full siding replacement, we're your one-stop siding contractor serving the city of Dallas.",
+    "items": [
+      {
+        "icon": "Hammer",
+        "title": "Siding Installation",
+        "slug": "siding-installation",
+        "description": "Complete new siding installation for new construction and existing homes. We handle all siding types with precision craftsmanship and attention to detail.",
+        "color": "bg-brand-blue",
+        "badge": "Most Popular"
+      },
+      {
+        "icon": "Wrench",
+        "title": "Siding Repair",
+        "slug": "siding-repair",
+        "description": "Fast, reliable repair for cracked, warped, rotting, or damaged siding panels. We match your existing siding for a seamless, invisible repair.",
+        "color": "bg-brand-blue-mid",
+        "badge": null
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Siding Replacement",
+        "slug": "siding-replacement",
+        "description": "Full siding replacement services to upgrade your home's curb appeal, energy efficiency, and structural protection with modern materials.",
+        "color": "bg-brand-blue-light",
+        "badge": null
+      },
+      {
+        "icon": "Layers",
+        "title": "Vinyl Siding",
+        "slug": "vinyl-siding",
+        "description": "Durable, low-maintenance vinyl siding in dozens of colors and profiles. Excellent insulation values and a lifespan of 40+ years.",
+        "color": "bg-brand-blue",
+        "badge": "Low Maintenance"
+      },
+      {
+        "icon": "Building2",
+        "title": "Fiber Cement Siding",
+        "slug": "fiber-cement-siding",
+        "description": "Premium James Hardie fiber cement siding — the gold standard for Texas homes. Resists fire, moisture, insects, and extreme weather.",
+        "color": "bg-brand-blue-mid",
+        "badge": "Best Value"
+      },
+      {
+        "icon": "CloudLightning",
+        "title": "Storm Damage Repair",
+        "slug": "storm-damage-repair",
+        "description": "Emergency siding repair after tornadoes, high winds, or severe storms. We work directly with your insurance company to streamline claims.",
+        "color": "bg-red-600",
+        "badge": "Emergency"
+      },
+      {
+        "icon": "Snowflake",
+        "title": "Hail Damage Repair",
+        "slug": "hail-damage-repair",
+        "description": "Expert hail damage assessment and repair for all siding materials. Document damage thoroughly for maximum insurance coverage.",
+        "color": "bg-indigo-600",
+        "badge": "Insurance Help"
+      },
+      {
+        "icon": "Factory",
+        "title": "Commercial Siding",
+        "slug": "commercial-siding",
+        "description": "Professional commercial siding services for office buildings, retail centers, warehouses, and HOA communities across Dallas.",
+        "color": "bg-gray-700",
+        "badge": null
+      }
+    ]
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Dallas's Most Trusted",
+    "titleHighlight": "Siding Experts",
+    "paragraphs": [
+      "Dallas Siding Experts has been protecting and beautifying Dallas-area homes since 2009. Founded by third-generation craftsmen, our family-owned company has built a reputation for uncompromising quality, transparent pricing, and the kind of personal service you just don't find with the big national chains.",
+      "We understand the unique challenges that Texas weather presents — from scorching summer heat and UV exposure to violent hail storms and high winds. That's why we only install siding materials engineered for the DFW climate, and why every installation follows building codes and manufacturer specs to protect your investment for decades.",
+      "Whether you're replacing worn-out siding on an East Dallas home, upgrading to James Hardie on Far North Dallas new construction, or repairing storm damage in Preston Hollow — our crew treats every project like it's our own home."
+    ],
+    "highlights": [
+      "Licensed & fully insured siding contractors",
+      "15+ years serving Dallas, Texas homeowners",
+      "James Hardie Preferred Contractor status",
+      "All projects backed by a 5-year workmanship warranty",
+      "We handle all insurance claims for storm/hail damage",
+      "Locally owned and operated — Dallas proud"
+    ],
+    "stats": [
+      {
+        "icon": "Shield",
+        "label": "Licensed & Insured",
+        "value": "100%"
+      },
+      {
+        "icon": "Users",
+        "label": "Happy Homeowners",
+        "value": "500+"
+      },
+      {
+        "icon": "CheckCircle2",
+        "label": "Projects Completed",
+        "value": "750+"
+      },
+      {
+        "icon": "Phone",
+        "label": "Response Time",
+        "value": "< 1 hr"
+      }
+    ],
+    "certificationText": "As a James Hardie Preferred Contractor, we're certified to install HardiePlank®, HardieShingle®, and HardiePanel® products — giving you access to extended manufacturer warranties and certified installation."
+  },
+  "process": {
+    "badge": "Our Process",
+    "title": "Simple, Stress-Free from",
+    "titleHighlight": "Start to Finish",
+    "subtitle": "Getting new siding shouldn't be complicated. Here's how we make the process easy, transparent, and completely hassle-free for Dallas homeowners.",
+    "steps": [
+      {
+        "number": "01",
+        "icon": "MessageSquare",
+        "title": "Free Consultation",
+        "description": "Speak directly with a siding expert over the phone. We'll discuss your goals, timeline, budget, and any specific concerns about your home's siding."
+      },
+      {
+        "number": "02",
+        "icon": "Search",
+        "title": "Property Inspection",
+        "description": "Our certified inspector visits your home at no charge. We thoroughly assess your existing siding, substrate, moisture barriers, and any storm or hail damage to give you an accurate diagnosis."
+      },
+      {
+        "number": "03",
+        "icon": "FileText",
+        "title": "Detailed Estimate",
+        "description": "Within 24 hours of the inspection, you receive a written, itemized estimate. No vague figures — just a clear breakdown of materials, labor, timeline, and warranty terms."
+      },
+      {
+        "number": "04",
+        "icon": "HardHat",
+        "title": "Professional Installation",
+        "description": "Our experienced crew arrives on schedule, protects your landscaping and property, and installs your new siding to manufacturer specs. Final walkthrough with you before we leave."
+      }
+    ]
+  },
+  "serviceAreas": {
+    "badge": "Service Area",
+    "title": "We Serve",
+    "titleHighlight": "Dallas, Texas",
+    "description": "We are a Dallas-focused siding company — not a national franchise. Our crews live and work right here in Dallas, giving us an unmatched understanding of local building codes, Texas weather patterns, and what Dallas homeowners expect.",
+    "neighborhoods": [
+      "Uptown / Oak Lawn",
+      "East Dallas / Lake Highlands",
+      "Preston Hollow",
+      "North Dallas",
+      "Deep Ellum / Exposition Park",
+      "South Dallas / Oak Cliff",
+      "White Rock Lake Area",
+      "Midtown / Greenville",
+      "Buckner Terrace",
+      "Pleasant Grove",
+      "Far North Dallas"
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Siding Questions?",
+    "titleHighlight": "We Have Answers.",
+    "subtitle": "Common questions Dallas homeowners ask about siding installation, repair, costs, and storm damage claims.",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "How much does siding installation cost in Dallas, TX?",
+        "answer": "Siding installation costs in Dallas typically range from $7 to $20 per square foot installed, depending on the material. Vinyl siding averages $8–$12/sq ft, while fiber cement (James Hardie) runs $10–$16/sq ft. A typical 1,500–2,000 sq ft Dallas home can expect to pay between $12,000 and $30,000 for a full installation. We provide free, detailed written estimates so you know exactly what to expect before any work begins."
+      },
+      {
+        "id": "faq-2",
+        "question": "How long does siding installation take in Dallas?",
+        "answer": "Most residential siding projects in Dallas take between 1 and 5 days, depending on the size of the home, the number of stories, material choice, and weather conditions. Our crew works efficiently without sacrificing quality. We provide a specific project timeline in your written estimate so you can plan accordingly."
+      },
+      {
+        "id": "faq-3",
+        "question": "What is the best siding material for Dallas, Texas homes?",
+        "answer": "For the Dallas climate — hot summers, high UV exposure, and periodic severe storms — we most commonly recommend fiber cement siding (particularly James Hardie products) and premium vinyl siding. Fiber cement is exceptionally durable, fire-resistant, and handles Texas heat with no warping or fading. Vinyl offers great value and zero maintenance. We'll discuss which material best suits your home, budget, and aesthetic goals during your free consultation."
+      },
+      {
+        "id": "faq-4",
+        "question": "Do you offer siding repair services or only full replacement?",
+        "answer": "We offer both! Many siding problems — including cracked panels, rotting boards, impact damage, and localized storm damage — can be resolved with targeted repairs at a fraction of replacement cost. During our free inspection, we assess the extent of the damage and provide honest recommendations. We'll never push you toward a full replacement if repairs are the smarter solution for your situation."
+      },
+      {
+        "id": "faq-5",
+        "question": "What is vinyl siding and how long does it last?",
+        "answer": "Vinyl siding is a popular exterior cladding made from PVC (polyvinyl chloride) that comes in dozens of colors, textures, and profiles. It's known for being low-maintenance (never needs painting), affordable, and durable. Quality vinyl siding installed by licensed contractors in Dallas can last 30–50 years. It's also a great insulator, helping reduce energy bills — an important consideration in North Texas summers."
+      },
+      {
+        "id": "faq-6",
+        "question": "What is fiber cement siding and how is it different from vinyl?",
+        "answer": "Fiber cement siding is manufactured from cement, sand, and cellulose fibers, creating an extremely durable composite material. Compared to vinyl, fiber cement is heavier, more rigid, and offers superior resistance to fire, insects, moisture, and impact damage from hail — making it ideal for Dallas homeowners. It also accepts paint and can mimic the look of wood grain beautifully. James Hardie is the industry leader, and we're a certified Preferred Contractor."
+      },
+      {
+        "id": "faq-7",
+        "question": "My home suffered hail damage. How do I know if I should file an insurance claim?",
+        "answer": "After any significant hail event in the Dallas area, we strongly recommend requesting a free inspection from a licensed contractor before contacting your insurance company. We can document the damage thoroughly with photos and measurements, assess whether it crosses the threshold for a claim, and provide a professional damage report. Filing an unwarranted claim can raise your premiums; not filing a legitimate claim leaves you paying out of pocket. We help you make the right call."
+      },
+      {
+        "id": "faq-8",
+        "question": "Do you work with homeowner's insurance for storm damage siding repair?",
+        "answer": "Yes — we work with insurance claims regularly and have extensive experience navigating the process for Dallas homeowners. We document damage professionally, provide detailed estimates that meet insurance company requirements, and can communicate directly with your adjuster if needed. Our goal is to help you get the maximum coverage you're entitled to under your policy, with minimal stress on your end."
+      },
+      {
+        "id": "faq-9",
+        "question": "How long does fiber cement (James Hardie) siding last in Texas?",
+        "answer": "James Hardie fiber cement siding is backed by a 30-year non-prorated manufacturer warranty and, with proper installation and maintenance, can last 50+ years in the Texas climate. Unlike wood, it won't rot, warp, or swell from moisture. Unlike vinyl, it won't melt or distort under extreme heat. When installed by a Preferred Contractor like Dallas Siding Experts, you also receive the extended warranty."
+      },
+      {
+        "id": "faq-10",
+        "question": "Do you offer financing options for siding installation?",
+        "answer": "Yes, we partner with financing providers to offer flexible payment plans that fit your budget. Many Dallas homeowners find this helpful for larger full-replacement projects. During your free estimate appointment, ask your project manager about current financing options, interest rates, and payment terms. We believe every homeowner deserves quality siding regardless of their budget situation."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Contact Us",
+    "title": "Get Your",
+    "titleHighlight": "Free Siding Estimate",
+    "titleSuffix": "— Just Call",
+    "description": "Skip the forms. Call us directly and a Dallas siding specialist will help you right away — no pressure, no obligation, just honest advice and a free estimate for your home.",
+    "reasons": [
+      "Free on-site inspection — no cost, no obligation",
+      "Licensed & insured Dallas siding contractors",
+      "Same-day & emergency response available",
+      "Serving Dallas, TX homeowners since 2009"
+    ]
+  },
+  "footer": {
+    "serviceLinks": [
+      {
+        "label": "Siding Installation",
+        "href": "/#services"
+      },
+      {
+        "label": "Siding Repair",
+        "href": "/#services"
+      },
+      {
+        "label": "Siding Replacement",
+        "href": "/#services"
+      },
+      {
+        "label": "Vinyl Siding",
+        "href": "/#services"
+      },
+      {
+        "label": "Fiber Cement Siding",
+        "href": "/#services"
+      },
+      {
+        "label": "Storm Damage Repair",
+        "href": "/#services"
+      },
+      {
+        "label": "Hail Damage Repair",
+        "href": "/#services"
+      },
+      {
+        "label": "Commercial Siding",
+        "href": "/#services"
+      }
+    ],
+    "copyrightText": "Dallas Siding Experts. All rights reserved."
+  }
+}
