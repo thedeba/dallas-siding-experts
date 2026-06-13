@@ -1,0 +1,52 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Company {
+  id                String   @id @default(cuid())
+  companyName       String
+  phone             String
+  phoneRaw          String
+  email             String
+  address           String
+  hours             String
+  serviceArea       String
+  yearEstablished   String
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  @@map("company")
+}
+
+model SiteData {
+  id                String   @id @default(cuid())
+  key               String   @unique
+  value             Json
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  @@map("site_data")
+}
+
+model Blog {
+  id                String   @id @default(cuid())
+  blogId            String   @unique
+  slug              String   @unique
+  title             String
+  excerpt           String
+  date              String
+  author            String
+  category          String
+  readTime          String
+  image             String
+  content           Json
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  @@map("blogs")
+}
