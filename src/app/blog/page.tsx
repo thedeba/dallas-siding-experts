@@ -16,7 +16,7 @@ export default function BlogIndexPage() {
     <>
       <Header />
 
-      <main id="main-content" className="flex-grow bg-brand-gray pt-24 pb-20 lg:pt-32">
+      <main id="main-content" className="flex-grow bg-brand-gray pt-2 pb-20 lg:pt-2">
         {/* Banner */}
         <section className="relative py-16 lg:py-24 bg-brand-blue hero-pattern overflow-hidden text-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

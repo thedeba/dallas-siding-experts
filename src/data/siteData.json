@@ -6,27 +6,27 @@
     },
     {
       "label": "Services",
-      "href": "/#services"
+      "href": "/services"
     },
     {
       "label": "About",
-      "href": "/#about"
+      "href": "/about"
     },
     {
       "label": "Process",
-      "href": "/#process"
+      "href": "/process"
     },
     {
       "label": "Service Area",
-      "href": "/#service-areas"
+      "href": "/service-areas"
     },
     {
       "label": "FAQ",
-      "href": "/#faq"
+      "href": "/faq"
     },
     {
       "label": "Contact",
-      "href": "/#contact"
+      "href": "/contact"
     },
     {
       "label": "Blog",

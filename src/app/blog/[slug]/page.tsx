@@ -50,7 +50,7 @@ export default async function BlogPostPage({ params }: PageProps) {
     <>
       <Header />
 
-      <main id="main-content" className="flex-grow bg-brand-gray pt-24 pb-20 lg:pt-32">
+      <main id="main-content" className="flex-grow bg-brand-gray pt-2 pb-20 lg:pt-2">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           {/* Back button & Breadcrumb */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
